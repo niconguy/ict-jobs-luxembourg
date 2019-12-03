@@ -13,6 +13,7 @@ This page is managed by the Moovijob - sourcing team. If you have any remarks re
 We regularly update the offering. If the position is advertised it means the recruitment process is still going on and recruiters are still expecting applications.
 If you are interested in a job offer, don't hesitate to follow the link.
 
+Cheers!
 
 <h3 align="right">Offers - last update: 03.12.2019</h3>
 
