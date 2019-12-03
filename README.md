@@ -13,10 +13,9 @@ This page is managed by the Moovijob - sourcing team. If you have any remarks re
 We regularly update the offering. If the position is advertised it means the recruitment process is still going on and recruiters are still expecting applications.
 If you are interested in a job offer, don't hesitate to follow the link.
 
-</br>
-
+<br>
 Cheers!
-</br>
+<br>
 
 <h3 align="right">Offers - last update: 03.12.2019</h3>
 
@@ -28,13 +27,10 @@ Cheers!
 <ul> <! -- LISTE A PUCE AVEC OFFRE D'EMPLOI --> 
 
 <a href="https://www.moovijob.com/company/vanksen/job/fr/front-end-developer-7">[Vanksen]</a> Front-end Dev - Bertrange, LU
-</br>
 
 <a href="https://www.moovijob.com/company/it-perform/job/en/devops-engineer-24">[IT Perform]</a> Devops Engineer - Kehlen, LU
-</br>
 
 <a href="https://www.moovijob.com/company/it-perform/job/en/bi-finance-analyst-developer">[IT Perform]</a> BI/Finance Analyst/Developer - Kehlen, LU
-</br>
 
 <a href="https://www.moovijob.com/company/fenetech-europe-sarl/job/en/erp-support-analyst-english-german">[FeneTech]</a> ERP Support Analyst (English – Spanish) / Knowledge of any programming language and/ OR SQL and ERP Systems - Bertrange, LU
 </ul>
