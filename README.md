@@ -34,12 +34,12 @@ Cheers!
 
 <a href="https://www.moovijob.com/company/fenetech-europe-sarl/job/en/erp-support-analyst-english-german" target="_blank">[FeneTech]</a> ERP Support Analyst (English – Spanish) / Knowledge of any programming language and/ OR SQL and ERP Systems - Bertrange, LU
 
-<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/testeur-de-logiciels-informatiques-ref-chd-31s" target="_blank">[Chambre des Députés Luxembourg]</a> Testeur de logiciels informatiques - Luxembourg, LU <b>NEW</b>
+<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/testeur-de-logiciels-informatiques-ref-chd-31s" target="_blank">[Chambre des Députés Luxembourg]</a> Testeur de logiciels informatiques - Luxembourg, LU <b><i>NEW</i></b>
 
 <a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/ingenieur-specialiste-en-securite-applicative-ref-chd-32s" target="_blank">[Chambre des Députés Luxembourg]</a> 
 Ingénieur spécialiste en sécurité applicative - Luxembourg, LU <b><i>NEW</i></b>
 
-<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/technicien-en-informatique-ref-chd-33s" target="_blank">[Chambre des Députés Luxembourg]</a> Technicien en informatique - Luxembourg, LU <b>NEW</b>
+<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/technicien-en-informatique-ref-chd-33s" target="_blank">[Chambre des Députés Luxembourg]</a> Technicien en informatique - Luxembourg, LU <b><i>NEW</i></b>
 
-<a href="Administrateur de bases de données" target="_blank">[Chambre des Députés Luxembourg]</a> Administrateur de bases de données - Luxembourg, LU <b>NEW</b>
+<a href="Administrateur de bases de données" target="_blank">[Chambre des Députés Luxembourg]</a> Administrateur de bases de données - Luxembourg, LU <b><i>NEW</i></b>
 </ul>
