@@ -34,7 +34,7 @@ Cheers!
 
 <a href="https://www.moovijob.com/company/fenetech-europe-sarl/job/en/erp-support-analyst-english-german" target="_blank">[FeneTech]</a> ERP Support Analyst (English – Spanish) / Knowledge of any programming language and/ OR SQL and ERP Systems - Bertrange, LU
 
-<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/testeur-de-logiciels-informatiques-ref-chd-31s" target="_blank">[Chambre des Députés Luxembourg]</a> Testeur de logiciels informatiques - Luxembourg, LU <b font-color="red">NEW</b>
+<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/testeur-de-logiciels-informatiques-ref-chd-31s" target="_blank">[Chambre des Députés Luxembourg]</a> Testeur de logiciels informatiques - Luxembourg, LU <b>NEW</b>
 
 <a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/ingenieur-specialiste-en-securite-applicative-ref-chd-32s" target="_blank">[Chambre des Députés Luxembourg]</a> 
 Ingénieur spécialiste en sécurité applicative - Luxembourg, LU <b>NEW</b>
