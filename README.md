@@ -26,20 +26,20 @@ Cheers!
 
 <ul> <! -- LISTE A PUCE AVEC OFFRE D'EMPLOI --> 
 
-<a href="https://www.moovijob.com/company/vanksen/job/fr/front-end-developer-7">[Vanksen]</a> Front-end Dev - Bertrange, LU
+<a href="https://www.moovijob.com/company/vanksen/job/fr/front-end-developer-7" target="_blank">[Vanksen]</a> Front-end Dev - Bertrange, LU
 
-<a href="https://www.moovijob.com/company/it-perform/job/en/devops-engineer-24">[IT Perform]</a> Devops Engineer - Kehlen, LU
+<a href="https://www.moovijob.com/company/it-perform/job/en/devops-engineer-24" target="_blank">[IT Perform]</a> Devops Engineer - Kehlen, LU
 
-<a href="https://www.moovijob.com/company/it-perform/job/en/bi-finance-analyst-developer">[IT Perform]</a> BI/Finance Analyst/Developer - Kehlen, LU
+<a href="https://www.moovijob.com/company/it-perform/job/en/bi-finance-analyst-developer" target="_blank">[IT Perform]</a> BI/Finance Analyst/Developer - Kehlen, LU
 
-<a href="https://www.moovijob.com/company/fenetech-europe-sarl/job/en/erp-support-analyst-english-german">[FeneTech]</a> ERP Support Analyst (English – Spanish) / Knowledge of any programming language and/ OR SQL and ERP Systems - Bertrange, LU
+<a href="https://www.moovijob.com/company/fenetech-europe-sarl/job/en/erp-support-analyst-english-german" target="_blank">[FeneTech]</a> ERP Support Analyst (English – Spanish) / Knowledge of any programming language and/ OR SQL and ERP Systems - Bertrange, LU
 
-<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/testeur-de-logiciels-informatiques-ref-chd-31s">[Chambre des Députés Luxembourg]</a> Testeur de logiciels informatiques - Luxembourg, LU <b color="red">NEW</b>
+<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/testeur-de-logiciels-informatiques-ref-chd-31s" target="_blank">[Chambre des Députés Luxembourg]</a> Testeur de logiciels informatiques - Luxembourg, LU <b font-color="red">NEW</b>
 
-<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/ingenieur-specialiste-en-securite-applicative-ref-chd-32s">[Chambre des Députés Luxembourg]</a> 
+<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/ingenieur-specialiste-en-securite-applicative-ref-chd-32s" target="_blank">[Chambre des Députés Luxembourg]</a> 
 Ingénieur spécialiste en sécurité applicative - Luxembourg, LU <b>NEW</b>
 
-<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/technicien-en-informatique-ref-chd-33s">[Chambre des Députés Luxembourg]</a> Technicien en informatique - Luxembourg, LU <b>NEW</b>
+<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/technicien-en-informatique-ref-chd-33s" target="_blank">[Chambre des Députés Luxembourg]</a> Technicien en informatique - Luxembourg, LU <b>NEW</b>
 
-<a href="Administrateur de bases de données">[Chambre des Députés Luxembourg]</a> Administrateur de bases de données - Luxembourg, LU <b>NEW</b>
+<a href="Administrateur de bases de données" target="_blank">[Chambre des Députés Luxembourg]</a> Administrateur de bases de données - Luxembourg, LU <b>NEW</b>
 </ul>
