@@ -37,7 +37,7 @@ Cheers!
 <a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/testeur-de-logiciels-informatiques-ref-chd-31s" target="_blank">[Chambre des Députés Luxembourg]</a> Testeur de logiciels informatiques - Luxembourg, LU <b>NEW</b>
 
 <a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/ingenieur-specialiste-en-securite-applicative-ref-chd-32s" target="_blank">[Chambre des Députés Luxembourg]</a> 
-Ingénieur spécialiste en sécurité applicative - Luxembourg, LU <b>NEW</b>
+Ingénieur spécialiste en sécurité applicative - Luxembourg, LU <b><i>NEW</i></b>
 
 <a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/technicien-en-informatique-ref-chd-33s" target="_blank">[Chambre des Députés Luxembourg]</a> Technicien en informatique - Luxembourg, LU <b>NEW</b>
 
