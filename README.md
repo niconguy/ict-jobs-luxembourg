@@ -35,7 +35,7 @@ ERP Application Technician (English - German) (f/m) - Luxembourg, LU <b><i>NEW</
 
 <a href="https://www.moovijob.com/company/lu-cix/job/en/network-security-and-systems-engineers" target="_blank">[LU-CIX Management G.I.E]</a> Network, security and systems engineers (f/m) - Bettembourg, LU <b><i>NEW</i></b>
 
-<a href="https://www.moovijob.com/company/l-s-c-engineering-group-s-a/job/fr/ingenieur-systeme" target="_blank">[L.S.C. Engineering Group S.A.]</a> Ingénieurs Système (f/h) - Capellen, LU <b><i>NEW</i></b>
+<a href="https://www.moovijob.com/company/l-s-c-engineering-group-s-a/job/fr/ingenieurs-systeme-2" target="_blank">[L.S.C. Engineering Group S.A.]</a> Ingénieurs Système (f/h) - Capellen, LU <b><i>NEW</i></b>
 
 <a href="https://www.moovijob.com/company/verkeiersverbond/job/fr/architecte-des-systemes-d-information" target="_blank">[Verkéiersverbond]</a> 
 Architecte des systèmes d’information (f/h) - Luxembourg, LU <b><i>NEW</i></b>
