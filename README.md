@@ -17,7 +17,7 @@ If you are interested in a job offer, don't hesitate to follow the link.
 Cheers!
 <br>
 
-<h3 align="right">Offers - last update: 13.12.2019</h3>
+<h3 align="right">Offers - last update: 07.02.2020</h3>
 
 
 <div>
