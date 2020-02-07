@@ -27,15 +27,15 @@ Cheers!
 <ul> <! -- LISTE A PUCE AVEC OFFRE D'EMPLOI --> 
 
 <a href="https://www.moovijob.com/company/fenetech-europe-sarl/job/en/job-ad-fair-moovijob-tour-luxembourg-erp-applications-engineer" target="_blank">[FeneTech Europe Sàrl]</a> 
-ERP Application Technician (English - German) (f/m) - Luxembourg, LU <i>NEW</i></b> 
+ERP Application Technician (English - German) (f/m) - Luxembourg, LU <b><i>NEW</i></b> 
 
-<a href="https://www.moovijob.com/company/fenetech-europe-sarl/job/en/software-developer-16" target="_blank">[FeneTech Europe Sàrl]</a> Software Developer VB.NET / C# (f/m) - Luxembourg, LU <i>NEW</i></b> 
+<a href="https://www.moovijob.com/company/fenetech-europe-sarl/job/en/software-developer-16" target="_blank">[FeneTech Europe Sàrl]</a> Software Developer VB.NET / C# (f/m) - Luxembourg, LU <b><i>NEW</i></b>
 
-<a href="https://www.moovijob.com/company/kichechef/job/lu/mataarbechter-am-service-informatik" target="_blank">[Kichechef]</a> Mataarbechter am Service Informatik (m/w) - Capellen, LU <i>NEW</i></b> 
+<a href="https://www.moovijob.com/company/kichechef/job/lu/mataarbechter-am-service-informatik" target="_blank">[Kichechef]</a> Mataarbechter am Service Informatik (m/w) - Capellen, LU <b><i>NEW</i></b>
 
-<a href="https://www.moovijob.com/company/lu-cix/job/en/network-security-and-systems-engineers" target="_blank">[LU-CIX Management G.I.E]</a> Network, security and systems engineers (f/m) - Bettembourg, LU <i>NEW</i></b> 
+<a href="https://www.moovijob.com/company/lu-cix/job/en/network-security-and-systems-engineers" target="_blank">[LU-CIX Management G.I.E]</a> Network, security and systems engineers (f/m) - Bettembourg, LU <b><i>NEW</i></b>
 
-<a href="https://www.moovijob.com/company/l-s-c-engineering-group-s-a/job/fr/ingenieur-systeme" target="_blank">[L.S.C. Engineering Group S.A.]</a> Ingénieurs Système (f/h) - Capellen, LU <i>NEW</i></b> 
+<a href="https://www.moovijob.com/company/l-s-c-engineering-group-s-a/job/fr/ingenieur-systeme" target="_blank">[L.S.C. Engineering Group S.A.]</a> Ingénieurs Système (f/h) - Capellen, LU <b><i>NEW</i></b>
 
 <a href="https://www.moovijob.com/company/verkeiersverbond/job/fr/architecte-des-systemes-d-information" target="_blank">[Verkéiersverbond]</a> 
 Architecte des systèmes d’information (f/h) - Luxembourg, LU <b><i>NEW</i></b>
