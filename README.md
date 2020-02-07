@@ -26,20 +26,25 @@ Cheers!
 
 <ul> <! -- LISTE A PUCE AVEC OFFRE D'EMPLOI --> 
 
-<a href="https://www.moovijob.com/company/vanksen/job/fr/front-end-developer-7" target="_blank">[Vanksen]</a> Front-end Dev - Bertrange, LU
+<a href="https://www.moovijob.com/company/fenetech-europe-sarl/job/en/job-ad-fair-moovijob-tour-luxembourg-erp-applications-engineer" target="_blank">[FeneTech Europe Sàrl]</a> 
+ERP Application Technician (English - German) (f/m) - Luxembourg, LU <i>NEW</i></b> 
 
-<a href="https://www.moovijob.com/company/it-perform/job/en/devops-engineer-24" target="_blank">[IT Perform]</a> Devops Engineer - Kehlen, LU
+<a href="https://www.moovijob.com/company/fenetech-europe-sarl/job/en/software-developer-16" target="_blank">[FeneTech Europe Sàrl]</a> Software Developer VB.NET / C# (f/m) - Luxembourg, LU <i>NEW</i></b> 
 
-<a href="https://www.moovijob.com/company/it-perform/job/en/bi-finance-analyst-developer" target="_blank">[IT Perform]</a> BI/Finance Analyst/Developer - Kehlen, LU
+<a href="https://www.moovijob.com/company/kichechef/job/lu/mataarbechter-am-service-informatik" target="_blank">[Kichechef]</a> Mataarbechter am Service Informatik (m/w) - Capellen, LU <i>NEW</i></b> 
 
-<a href="https://www.moovijob.com/company/fenetech-europe-sarl/job/en/erp-support-analyst-english-german" target="_blank">[FeneTech]</a> ERP Support Analyst (English – Spanish) / Knowledge of any programming language and/ OR SQL and ERP Systems - Bertrange, LU
+<a href="https://www.moovijob.com/company/lu-cix/job/en/network-security-and-systems-engineers" target="_blank">[LU-CIX Management G.I.E]</a> Network, security and systems engineers (f/m) - Bettembourg, LU <i>NEW</i></b> 
 
-<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/testeur-de-logiciels-informatiques-ref-chd-31s" target="_blank">[Chambre des Députés Luxembourg]</a> Testeur de logiciels informatiques - Luxembourg, LU <b><i>NEW</i></b>
+<a href="https://www.moovijob.com/company/l-s-c-engineering-group-s-a/job/fr/ingenieur-systeme" target="_blank">[L.S.C. Engineering Group S.A.]</a> Ingénieurs Système (f/h) - Capellen, LU <i>NEW</i></b> 
 
-<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/ingenieur-specialiste-en-securite-applicative-ref-chd-32s" target="_blank">[Chambre des Députés Luxembourg]</a> 
-Ingénieur spécialiste en sécurité applicative - Luxembourg, LU <b><i>NEW</i></b>
+<a href="https://www.moovijob.com/company/verkeiersverbond/job/fr/architecte-des-systemes-d-information" target="_blank">[Verkéiersverbond]</a> 
+Architecte des systèmes d’information (f/h) - Luxembourg, LU <b><i>NEW</i></b>
 
-<a href="https://www.moovijob.com/company/chambre-des-deputes-luxembourg/job/fr/technicien-en-informatique-ref-chd-33s" target="_blank">[Chambre des Députés Luxembourg]</a> Technicien en informatique - Luxembourg, LU <b><i>NEW</i></b>
+<a href="https://www.moovijob.com/company/ierace-dechmann-partners/job/fr/web-developer-back-end-fullstack" target="_blank">[IERACE DECHMANN + PARTNERS]</a> Web Developer Back-end / Fullstack (f/h) - Luxembourg, LU <b><i>NEW</i></b>
 
-<a href="Administrateur de bases de données" target="_blank">[Chambre des Députés Luxembourg]</a> Administrateur de bases de données - Luxembourg, LU <b><i>NEW</i></b>
+<a href="https://www.moovijob.com/company/alma-development/job/fr/developpeur-web-mobile-2" target="_blank">[ALMA DEVELOPMENT]</a> Développeur Web Mobile (f/h) - Luxembourg, LU <b><i>NEW</i></b>
 </ul>
+
+<a href="https://www.moovijob.com/company/nsi/" target="_blank">[NSI]</a> 
+Toute les offres de la société NSI au Luxembourg<b><i>NEW</i></b> 
+
