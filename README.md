@@ -31,20 +31,23 @@ ERP Application Technician (English - German) (f/m) - Luxembourg, LU <b><i>NEW</
 
 <a href="https://www.moovijob.com/company/fenetech-europe-sarl/job/en/software-developer-16" target="_blank">[FeneTech Europe Sàrl]</a> Software Developer VB.NET / C# (f/m) - Luxembourg, LU <b><i>NEW</i></b>
 
-<a href="https://www.moovijob.com/company/kichechef/job/lu/mataarbechter-am-service-informatik" target="_blank">[Kichechef]</a> Mataarbechter am Service Informatik (m/w) - Capellen, LU <b><i>NEW</i></b>
+<a href="https://www.moovijob.com/company/credit-suisse-luxembourg-s-a/job/en/luxembourg-production-support-lead" target="_blank">[Crédit Suisse Luxembourg]</a> Luxembourg Production Support Lead (f/h) - Luxembourg <b><i>NEW</i></b>
 
-<a href="https://www.moovijob.com/company/lu-cix/job/en/network-security-and-systems-engineers" target="_blank">[LU-CIX Management G.I.E]</a> Network, security and systems engineers (f/m) - Bettembourg, LU <b><i>NEW</i></b>
-
-<a href="https://www.moovijob.com/company/l-s-c-engineering-group-s-a/job/fr/ingenieurs-systeme-2" target="_blank">[L.S.C. Engineering Group S.A.]</a> Ingénieurs Système (f/h) - Capellen, LU <b><i>NEW</i></b>
-
-<a href="https://www.moovijob.com/company/verkeiersverbond/job/fr/architecte-des-systemes-d-information" target="_blank">[Verkéiersverbond]</a> 
-Architecte des systèmes d’information (f/h) - Luxembourg, LU <b><i>NEW</i></b>
-
-<a href="https://www.moovijob.com/company/ierace-dechmann-partners/job/fr/web-developer-back-end-fullstack" target="_blank">[IERACE DECHMANN + PARTNERS]</a> Web Developer Back-end / Fullstack (f/h) - Luxembourg, LU <b><i>NEW</i></b>
-
-<a href="https://www.moovijob.com/company/alma-development/job/fr/developpeur-web-mobile-2" target="_blank">[ALMA DEVELOPMENT]</a> Développeur Web Mobile (f/h) - Luxembourg, LU <b><i>NEW</i></b>
-</ul>
+<a href="https://www.moovijob.com/company/avega/job/de/junior-system-administrator-4="_blank">[AVEGA]</a> IT System Administrator (f/h) - Luxembourg, LU <b><i>NEW</i></b>
 
 <a href="https://www.moovijob.com/company/nsi/" target="_blank">[NSI]</a> Toute les offres de la société NSI au Luxembourg <b><i>NEW</i></b>
 
+<a href="https://www.moovijob.com/company/advanzia-bank/job/en/test-management-officer" target="_blank">[Advanzia]</a> Test Management Officer - Munsbach, LU <b><i>NEW</i></b>
+
+<a href="https://www.moovijob.com/company/advanzia-bank/job/en/network-and-security-architect" target="_blank">[Advanzia]</a> Network and Security Architect - Munsbach, LU <b><i>NEW</i></b>
+
+<a href="https://www.moovijob.com/company/advanzia-bank/job/en/head-of-it-infrastructure-data-warehouse-production" target="_blank">[Advanzia]</a> Head of IT Infrastructure, Data warehouse & Production - Munsbach, LU <b><i>NEW</i></b>
+
+RECRUITING FIRM:
+
+<a href="https://www.moovijob.com/company/gamechanger-luxembourg/job/en/full-stack-back-end-developer-startup-fintech-french-and-english-speaking" target="_blank">[Gamechanger]</a> 
+Back End Developer - Startup Fintech - French & English speaker (f/h) - Luxembourg, LU <b><i>NEW</i></b>
+
+<a href="https://www.moovijob.com/company/gamechanger-luxembourg/job/en/junior-devops-architect-startup-fintech-french-english-speaking" target="_blank">[Gamechanger]</a> 
+Junior DevOps Architect - Startup Fintech - French & English speaking (f/h) - Luxembourg, LU <b><i>NEW</i></b>
 </ul>
